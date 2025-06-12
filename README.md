@@ -1,2 +1,3 @@
-# ScaleIllusion
-Linton Scale Illusion
+# Linton Scale Illusion
+
+By Paul Linton, Columbia University
